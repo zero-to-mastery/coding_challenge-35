@@ -22,6 +22,31 @@ Enjoy!
 
 Student Submissions will be posted here at the end of the challenge:
 
+mariapnogueira#3624  
+Github Pages  
+https://nogueiram-27.github.io/social-proof-section-mpn/  
+-------  
+  
+Anette#4560  
+Github Pages  
+https://redsquirrrel.github.io/social-proof/  
+-------  
+  
+The Aman#1401  
+Other Link  
+https://demo.com/  
+-------  
+  
+jesseBeke#6971  
+Github Repo  
+https://github.com/codejesse/Social-proof-page/tree/master"  
+-------  
+  
+Coku#9444  
+Github Repo  
+https://github.com/MrCoku/Single-Price-Grid  
+-------
+
 
 ## One Last Thing!
 
